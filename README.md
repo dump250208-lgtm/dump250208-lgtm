@@ -17,10 +17,10 @@ A passionate First-Year Software Engineering Student dedicated to building effic
 Here are the primary programming languages I work with and continuously improve upon:
 
 <p align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)" alt="c" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)" alt="cplusplus" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)" alt="csharp" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)" alt="java" width="40" height="40" style="vertical-align: middle; margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" style="margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" style="margin-right: 5px;"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="margin-right: 5px;"/>
 </p>
 
 ---
@@ -28,8 +28,8 @@ Here are the primary programming languages I work with and continuously improve 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=dump250208-lgtm&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=dump250208-lgtm&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true)" alt="GitHub Stats" height="150" style="vertical-align: middle; margin-right: 10px;"/>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=dump250208-lgtm&layout=compact&theme=visual_studio_code](https://github-readme-stats.vercel.app/api/top-langs/?username=dump250208-lgtm&layout=compact&theme=visual_studio_code)" alt="Top Languages" height="150" style="vertical-align: middle;"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dump250208-lgtm&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" style="margin-right: 10px;"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dump250208-lgtm&layout=compact&theme=dark" alt="Top Languages" height="150"/>
 </p>
 
 ---
